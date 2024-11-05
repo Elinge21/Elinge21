@@ -34,3 +34,6 @@ pablo=empleadoartista("Pablo","24 años","0","Canto","300000","google")
 pablo.presentarse()
 
 
+
+
+
